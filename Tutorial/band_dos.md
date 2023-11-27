@@ -13,7 +13,7 @@ kernelspec:
 ---
 
 
-# Band and DOS calculations
+# Tutorial: Band and DOS calculations
 
 In this tutorial, we perform Band and DOS calculations with a lightweight
 version of FIREBALL which is called thunder-lightning.

@@ -1,7 +1,12 @@
 # Table of contents
 
 format: jb-book
-root: intro
+root: index
 chapters:
-- file: band_dos
-- file: theory
+- file: Introduction/intro
+  sections:
+  - file: Introduction/features
+  - file: Introduction/install
+
+- file: Tutorial/band_dos
+- file: Theory/theory
